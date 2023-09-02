@@ -1,1 +1,1 @@
-# This repository contains my research code through out my PhD journey with Prof. Inna 
+# This repository contains my research code throughout my MSc. Journey
